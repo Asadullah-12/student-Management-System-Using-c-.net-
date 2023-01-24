@@ -1,0 +1,344 @@
+F:\project\Student_Menagment\bin\Debug\Student_Menagment.exe.config
+F:\project\Student_Menagment\bin\Debug\Student_Menagment.exe
+F:\project\Student_Menagment\bin\Debug\Student_Menagment.pdb
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.csproj.AssemblyReference.cache
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.csproj.SuggestedBindingRedirects.cache
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.Properties.Resources.resources
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.csproj.GenerateResource.cache
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.csproj.CoreCompileInputs.cache
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.exe
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.pdb
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.Form1.resources
+F:\project\Student_Menagment\bin\Debug\Krypton.Toolkit.dll
+F:\project\Student_Menagment\bin\Debug\Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll
+F:\project\Student_Menagment\bin\Debug\Krypton.Toolkit.Suite.Extended.Global.Utilities.dll
+F:\project\Student_Menagment\bin\Debug\Krypton.Toolkit.Suite.Extended.Tools.dll
+F:\project\Student_Menagment\bin\Debug\MaterialSkin.dll
+F:\project\Student_Menagment\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\project\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Docking.dll
+F:\project\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+F:\project\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+F:\project\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+F:\project\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+F:\project\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+F:\project\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+F:\project\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+F:\project\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+F:\project\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.csproj.CopyComplete
+F:\project\Student_Menagment\bin\Debug\CircularProgressBar.dll
+F:\project\Student_Menagment\bin\Debug\WinFormAnimation.dll
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.Form2.resources
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.Main.resources
+F:\project\Student_Menagment\bin\Debug\Interop.WMPLib.dll
+F:\project\Student_Menagment\bin\Debug\AxInterop.WMPLib.dll
+F:\project\Student_Menagment\obj\Debug\Interop.WMPLib.dll
+F:\project\Student_Menagment\obj\Debug\AxInterop.WMPLib.dll
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.csproj.ResolveComReference.cache
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.Form3.resources
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.main_2.resources
+F:\project\Student_Menagment 1.2\bin\Debug\Student_Menagment.exe.config
+F:\project\Student_Menagment 1.2\bin\Debug\Student_Menagment.exe
+F:\project\Student_Menagment 1.2\bin\Debug\Student_Menagment.pdb
+F:\project\Student_Menagment 1.2\bin\Debug\CircularProgressBar.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Krypton.Toolkit.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Krypton.Toolkit.Suite.Extended.Global.Utilities.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Krypton.Toolkit.Suite.Extended.Tools.dll
+F:\project\Student_Menagment 1.2\bin\Debug\MaterialSkin.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\project\Student_Menagment 1.2\bin\Debug\WinFormAnimation.dll
+F:\project\Student_Menagment 1.2\bin\Debug\ComponentFactory.Krypton.Docking.dll
+F:\project\Student_Menagment 1.2\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+F:\project\Student_Menagment 1.2\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+F:\project\Student_Menagment 1.2\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+F:\project\Student_Menagment 1.2\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+F:\project\Student_Menagment 1.2\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+F:\project\Student_Menagment 1.2\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+F:\project\Student_Menagment 1.2\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+F:\project\Student_Menagment 1.2\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+F:\project\Student_Menagment 1.2\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+F:\project\Student_Menagment 1.2\bin\Debug\Interop.WMPLib.dll
+F:\project\Student_Menagment 1.2\bin\Debug\AxInterop.WMPLib.dll
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.csproj.AssemblyReference.cache
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.csproj.SuggestedBindingRedirects.cache
+F:\project\Student_Menagment 1.2\obj\Debug\Interop.WMPLib.dll
+F:\project\Student_Menagment 1.2\obj\Debug\AxInterop.WMPLib.dll
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.csproj.ResolveComReference.cache
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.Form1.resources
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.Form2.resources
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.Form3.resources
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.main_2.resources
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.Main.resources
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.Properties.Resources.resources
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.csproj.GenerateResource.cache
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.csproj.CoreCompileInputs.cache
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.csproj.CopyComplete
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.exe
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.pdb
+F:\project\Student_Menagment 1.2\bin\Debug\Database1.mdf
+F:\project\Student_Menagment 1.2\bin\Debug\Database1_log.ldf
+F:\project\Student_Menagment 1.2\bin\Debug\Azure.Core.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Azure.Identity.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Microsoft.Data.SqlClient.pdb
+F:\project\Student_Menagment 1.2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment 1.2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment 1.2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment 1.2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment 1.2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment 1.2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment 1.2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment 1.2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment 1.2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment 1.2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Microsoft.Identity.Client.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\project\Student_Menagment 1.2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Buffers.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Data.SqlClient.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Memory.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Memory.Data.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Numerics.Vectors.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Security.AccessControl.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Security.Permissions.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Security.Principal.Windows.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Text.Encodings.Web.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Text.Json.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\project\Student_Menagment 1.2\bin\Debug\System.ValueTuple.dll
+F:\project\Student_Menagment 1.2\obj\Debug\Student_Menagment.exe.config
+F:\project\Student_Menagment\bin\Debug\Database1.mdf
+F:\project\Student_Menagment\bin\Debug\Database1_log.ldf
+F:\project\Student_Menagment\bin\Debug\Azure.Core.dll
+F:\project\Student_Menagment\bin\Debug\Azure.Identity.dll
+F:\project\Student_Menagment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\project\Student_Menagment\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\project\Student_Menagment\bin\Debug\Microsoft.Data.SqlClient.pdb
+F:\project\Student_Menagment\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\project\Student_Menagment\bin\Debug\Microsoft.Identity.Client.dll
+F:\project\Student_Menagment\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\project\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\project\Student_Menagment\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\project\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\project\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\project\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\project\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\project\Student_Menagment\bin\Debug\System.Buffers.dll
+F:\project\Student_Menagment\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\project\Student_Menagment\bin\Debug\System.Data.SqlClient.dll
+F:\project\Student_Menagment\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\project\Student_Menagment\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\project\Student_Menagment\bin\Debug\System.Memory.dll
+F:\project\Student_Menagment\bin\Debug\System.Memory.Data.dll
+F:\project\Student_Menagment\bin\Debug\System.Numerics.Vectors.dll
+F:\project\Student_Menagment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\project\Student_Menagment\bin\Debug\System.Security.AccessControl.dll
+F:\project\Student_Menagment\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+F:\project\Student_Menagment\bin\Debug\System.Security.Permissions.dll
+F:\project\Student_Menagment\bin\Debug\System.Security.Principal.Windows.dll
+F:\project\Student_Menagment\bin\Debug\System.Text.Encodings.Web.dll
+F:\project\Student_Menagment\bin\Debug\System.Text.Json.dll
+F:\project\Student_Menagment\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\project\Student_Menagment\bin\Debug\System.ValueTuple.dll
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.exe.config
+F:\project\Student_Menagment\bin\Debug\Student_Info.mdf
+F:\project\Student_Menagment\bin\Debug\Student_Info_log.ldf
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.Form4.resources
+F:\project\Student_Menagment\obj\Debug\Student_Menagment.Form5.resources
+F:\vp final project copy\Student_Menagment\bin\Debug\Database1.mdf
+F:\vp final project copy\Student_Menagment\bin\Debug\Database1_log.ldf
+F:\vp final project copy\Student_Menagment\bin\Debug\Student_Info.mdf
+F:\vp final project copy\Student_Menagment\bin\Debug\Student_Info_log.ldf
+F:\vp final project copy\Student_Menagment\bin\Debug\Student_Menagment.exe.config
+F:\vp final project copy\Student_Menagment\bin\Debug\Student_Menagment.exe
+F:\vp final project copy\Student_Menagment\bin\Debug\Student_Menagment.pdb
+F:\vp final project copy\Student_Menagment\bin\Debug\Azure.Core.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Azure.Identity.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\CircularProgressBar.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Krypton.Toolkit.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Krypton.Toolkit.Suite.Extended.Global.Utilities.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Krypton.Toolkit.Suite.Extended.Tools.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\MaterialSkin.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.Data.SqlClient.pdb
+F:\vp final project copy\Student_Menagment\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.Identity.Client.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Buffers.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Data.SqlClient.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Memory.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Memory.Data.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Numerics.Vectors.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Security.AccessControl.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Security.Permissions.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Security.Principal.Windows.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Text.Encodings.Web.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Text.Json.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\System.ValueTuple.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\WinFormAnimation.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Docking.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+F:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+F:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+F:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+F:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+F:\vp final project copy\Student_Menagment\bin\Debug\Interop.WMPLib.dll
+F:\vp final project copy\Student_Menagment\bin\Debug\AxInterop.WMPLib.dll
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.csproj.AssemblyReference.cache
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.csproj.SuggestedBindingRedirects.cache
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.exe.config
+F:\vp final project copy\Student_Menagment\obj\Debug\Interop.WMPLib.dll
+F:\vp final project copy\Student_Menagment\obj\Debug\AxInterop.WMPLib.dll
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.csproj.ResolveComReference.cache
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Form1.resources
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Form2.resources
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Form3.resources
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Form4.resources
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Form5.resources
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.main_2.resources
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Main.resources
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Properties.Resources.resources
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.csproj.GenerateResource.cache
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.csproj.CoreCompileInputs.cache
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.csproj.CopyComplete
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.exe
+F:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.pdb
+F:\vp final project copy\Student_Menagment\bin\Debug\NumberThrteen.mdf
+F:\vp final project copy\Student_Menagment\bin\Debug\NumberThrteen_log.ldf
+E:\vp final project copy\Student_Menagment\bin\Debug\Database1.mdf
+E:\vp final project copy\Student_Menagment\bin\Debug\Database1_log.ldf
+E:\vp final project copy\Student_Menagment\bin\Debug\NumberThrteen.mdf
+E:\vp final project copy\Student_Menagment\bin\Debug\NumberThrteen_log.ldf
+E:\vp final project copy\Student_Menagment\bin\Debug\Student_Info.mdf
+E:\vp final project copy\Student_Menagment\bin\Debug\Student_Info_log.ldf
+E:\vp final project copy\Student_Menagment\bin\Debug\Student_Menagment.exe.config
+E:\vp final project copy\Student_Menagment\bin\Debug\Student_Menagment.exe
+E:\vp final project copy\Student_Menagment\bin\Debug\Student_Menagment.pdb
+E:\vp final project copy\Student_Menagment\bin\Debug\Azure.Core.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Azure.Identity.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\CircularProgressBar.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Krypton.Toolkit.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Krypton.Toolkit.Suite.Extended.Global.Utilities.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Krypton.Toolkit.Suite.Extended.Tools.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\MaterialSkin.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\vp final project copy\Student_Menagment\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.Identity.Client.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Buffers.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Data.SqlClient.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Memory.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Memory.Data.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Numerics.Vectors.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Security.AccessControl.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Security.Permissions.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Security.Principal.Windows.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Text.Encodings.Web.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Text.Json.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\System.ValueTuple.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\WinFormAnimation.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Docking.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+E:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+E:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\vp final project copy\Student_Menagment\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+E:\vp final project copy\Student_Menagment\bin\Debug\Interop.WMPLib.dll
+E:\vp final project copy\Student_Menagment\bin\Debug\AxInterop.WMPLib.dll
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.csproj.AssemblyReference.cache
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.csproj.SuggestedBindingRedirects.cache
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.exe.config
+E:\vp final project copy\Student_Menagment\obj\Debug\Interop.WMPLib.dll
+E:\vp final project copy\Student_Menagment\obj\Debug\AxInterop.WMPLib.dll
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.csproj.ResolveComReference.cache
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Form1.resources
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Form2.resources
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Form3.resources
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Form4.resources
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Form5.resources
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.main_2.resources
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Main.resources
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.Properties.Resources.resources
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.csproj.GenerateResource.cache
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.csproj.CoreCompileInputs.cache
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.csproj.CopyComplete
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.exe
+E:\vp final project copy\Student_Menagment\obj\Debug\Student_Menagment.pdb
